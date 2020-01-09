@@ -1,0 +1,24 @@
+{
+  "name": "class-router",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Router",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://millerrabin@bitbucket.org/millerrabin/router.git"
+  },
+  "keywords": [
+    "router",
+    "browser"
+  ],
+  "author": "millerrabin",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/millerrabin/router#readme",
+  "dependencies": {
+    "browser-messages": "^1.0.1",
+    "safe-ops": "^1.0.0"
+  }
+}
