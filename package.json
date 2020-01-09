@@ -1,5 +1,5 @@
 {
-  "name": "class-router",
+  "name": "es-class-router",
   "version": "1.0.0",
   "description": "Pure JavaScript Router",
   "main": "main.js",

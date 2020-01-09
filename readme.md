@@ -1,4 +1,4 @@
-#Class-Router
+#ES-Class-Router
 This is a pure JS router which uses JS classes for page navigation.
 
 ##How to install
@@ -13,7 +13,7 @@ Import from different modules always returns same object;
 This example call create instance of class Main when you load the main page of application 
 
 ```javascript
-    import router from '/node_modules/class-router/main.js'
+    import router from '/node_modules/es-class-router/main.js'
 
     async function render() {
         //Render page content here 
