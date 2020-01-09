@@ -1,6 +1,6 @@
 {
   "name": "es-class-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pure JavaScript Router",
   "main": "main.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "homepage": "https://bitbucket.org/millerrabin/router#readme",
   "dependencies": {
     "browser-messages": "^1.0.1",
-    "safe-ops": "^1.0.0"
+    "safe-ops": "^1.0.1"
   }
 }
