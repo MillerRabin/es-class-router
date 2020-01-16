@@ -1,12 +1,12 @@
-#ES-Class-Router
+# ES-Class-Router
 This is a pure JS router which uses JS classes for page navigation.
 
-##How to install
+## How to install
 ```bash
     npm install class-router
 ```
 
-##Usage
+## Usage
 The router object is singleton.
 Import from different modules always returns same object;
 
